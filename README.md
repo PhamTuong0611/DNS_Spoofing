@@ -9,6 +9,8 @@
 - Máy tấn công sử dụng Kali Linux, cài đặt các công cụ hỗ trợ như Ettercap, Apache Server,... . Máy nạn nhân được giả lập bằng Ubuntu. Và sử dụng phần mềm VMware để thực hiện tấn công.
 - Có các card mạng như: VMware Network Adapter VMnet1, VMware Network Adapter VMnet8 và mạng wifi. Các máy ảo sẽ connect với nhau thông qua card mạng VMware Network Adapter VMnet8.
 3. Video Demo
-- Demo tấn công DNS Spoofing: https://drive.google.com/file/d/1Gm-zRkt16TcfzU4HARK1kVVIgikorlyc/view?usp=sharing
-- Demo phòng thủ DNS Spoofing dùng DNSSEC: https://drive.google.com/file/d/1JqmIuuY7H5IMB9o9W09hPWy4zQJR3zBF/view?usp=sharing
+- Demo tấn công DNS Spoofing:
+  https://drive.google.com/file/d/1Gm-zRkt16TcfzU4HARK1kVVIgikorlyc/view?usp=sharing
+- Demo phòng thủ DNS Spoofing dùng DNSSEC:
+  https://drive.google.com/file/d/1JqmIuuY7H5IMB9o9W09hPWy4zQJR3zBF/view?usp=sharing
 
